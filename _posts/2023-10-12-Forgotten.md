@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The Forgotten Letter"
 date:   2023-10-15
 categories: blogs

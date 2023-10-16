@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The Treehouse Chronicles"
 date:   2023-10-12
 categories: blogs

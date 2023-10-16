@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The Time-Traveler's Dilemma"
 date:   2023-10-13
 categories: blogs
